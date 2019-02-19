@@ -1,0 +1,19 @@
+{
+  "name": "advanced-css-and-sass-project-1",
+  "version": "1.0.0",
+  "description": "Landing page for NATOURS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajhiRockzZ/Advanced-CSS-and-SASS-Project-1.git"
+  },
+  "author": "Sumesh Majhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MajhiRockzZ/Advanced-CSS-and-SASS-Project-1/issues"
+  },
+  "homepage": "https://github.com/MajhiRockzZ/Advanced-CSS-and-SASS-Project-1#readme"
+}
